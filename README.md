@@ -9,18 +9,12 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">UI/UX & Graphic Designer | Creative Thinker | Problem Solver</h2></summary>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Figma, Adobe Illustrator, Photoshop, Corel, Aseprite, Krita**
@@ -49,9 +43,6 @@
   </a>
 </p>
 
-
-
-<!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -67,7 +58,6 @@
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
-
 
 <!--profile visit count-->
 <div align="center">
