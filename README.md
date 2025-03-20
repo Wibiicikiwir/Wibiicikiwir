@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Figma, Adobe Illustrator, Photoshop, Corel, Aseprite, Krita**
 
-- 📫 Feel free to reach me out **zacktuf0@gmail.com**
+- 📫 Feel free to reach me out **zacktuf08@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [wibs](https://discordapp.com/users/1090172351406166046) my username!
 <!--Intro end-->
