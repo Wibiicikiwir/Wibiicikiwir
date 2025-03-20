@@ -25,7 +25,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Figma, Adobe Illustrator, Photoshop, Corel, Aseprite, Krita**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Creating custom illustrations and icons using Adobe Illustrator & Figma.**
 
 - ☁️ I've keen interest in graphic and ui ux design. So,I'm learning **Figma**
 
