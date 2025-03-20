@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Creating custom illustrations and icons using Adobe Illustrator & Figma.**
 
-- ☁️ I've keen interest in graphic and ui ux design. So,I'm learning **Figma**
+- ☁️ I've been interest in graphic and ui ux design. So,I'm learning **Figma**
 
 - 💬 Ask me about **Figma, Adobe Illustrator, Photoshop, Corel, Aseprite, Krita**
 
