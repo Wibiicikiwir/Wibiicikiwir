@@ -33,7 +33,7 @@
 
 - 📫 Feel free to reach me out **zacktuf0@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/1090172351406166046) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [wibs](https://discordapp.com/users/1090172351406166046) my username!
 <!--Intro end-->
 
 <!--h1 without bottom border-->
