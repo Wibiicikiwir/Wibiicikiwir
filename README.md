@@ -48,7 +48,7 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
-</div>
+</div> 
 
 <!--icons and links-->
 <p align="center">
