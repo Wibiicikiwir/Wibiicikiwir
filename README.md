@@ -7,7 +7,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Wibi</h1></summary>
   </ul>
-</div>
+</div> 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
